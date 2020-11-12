@@ -196,7 +196,7 @@ class _EmailPasswordSignInPageState extends State<EmailPasswordSignInPage> {
               child: Card(
                 child: Padding(
                   padding: const EdgeInsets.all(16.0),
-                  child: _buildContent(),
+                  child: ,
                 ),
               ),
             );
