@@ -183,6 +183,7 @@ class _EmailPasswordSignInPageState extends State<EmailPasswordSignInPage> {
     return Scaffold(
       appBar: AppBar(
         elevation: 2.0,
+        backgroundColor: Colors.black,
         title: Text(model.title),
       ),
       backgroundColor: Colors.grey[200],
